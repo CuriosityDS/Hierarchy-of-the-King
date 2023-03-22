@@ -1,0 +1,6 @@
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\bin\Debug\Hierarchy-of-the-King.dll
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\bin\Debug\Hierarchy-of-the-King.pdb
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\obj\Debug\Hierarchy-of-the-King.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\obj\Debug\Hierarchy-of-the-King.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\obj\Debug\Hierarchy-of-the-King.dll
+C:\Users\Илья\source\repos\Hierarchy-of-the-King\obj\Debug\Hierarchy-of-the-King.pdb
